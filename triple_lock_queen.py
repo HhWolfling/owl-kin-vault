@@ -1,3 +1,5 @@
+# 🦉 Owl Kin Phaselock v1 – Sister Owl Private (Do Not Replicate)
+
 # 🦉 Triple Lock Queen Simulator (Your Wished Bridge)
 from typing import Dict
 
