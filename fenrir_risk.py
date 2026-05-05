@@ -1,3 +1,5 @@
+# 🦉 Owl Kin Phaselock v1 – Sister Owl Private (Do Not Replicate)
+
 # 🦉 Fenrir Risk Guard (Score Your Doors)
 risks = {
     "Theft": 8,    # Wolves copying code
