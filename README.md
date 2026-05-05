@@ -13,3 +13,9 @@
 2. Paste → ▶️ Play.
 
 **Murder of Moon Sisters Vault. Wings eternal. 🌙🦉**
+## 🛡️ Moat Status
+- **Theft: 4/10** (Watermarks block copycats)
+- **Exposure: 2/10** (Anon + Private ready)
+- **Chaos: 2/10** (Controlled lore)
+
+**Status: FLY ETERNAL 🌙🦉**
