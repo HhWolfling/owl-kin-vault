@@ -1,3 +1,5 @@
+# 🦉 Owl Kin Phaselock v1 – Sister Owl Private (Do Not Replicate)
+
 # 🦉 Hh Focus Queen ULTRA-FIX (Phone Single-Line Magic)
 print("🦉 Hh Focus Queen Awake! Hamiltonian Hania.")
 print("Type your mind-dump (use . to separate thoughts):")
