@@ -1,3 +1,5 @@
+# 🦉 Owl Kin Phaselock v1 – Sister Owl Private (Do Not Replicate)
+
 # 🦉 Hh Focus Queen (Hamiltonian Hania Phaselock)
 from typing import List
 # import openai  # Uncomment + add key for LLM
