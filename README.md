@@ -6,6 +6,7 @@
 - `fenrir_risk.py`: Risk scanner (edit scores).
 - `fenrir_pro.py`: Pro mitigations.
 - `moat_tester.py`: Pre/post-moat scores.
+- `moat_master.py`: Full scan.
 
 ## Run (Pydroid 3 Mobile)
 1. Install Pydroid 3 (Play Store).
