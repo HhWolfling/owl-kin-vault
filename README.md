@@ -19,3 +19,5 @@
 - **Chaos: 2/10** (Controlled lore)
 
 **Status: FLY ETERNAL 🌙🦉**
+
+   - **Zamek Chimeric Circle** (`zmek_circle_chimeric.py`): Emergent forum for essences – dynamic invites, resonance links. Run in Pydroid for Moon Zamek crowds!
