@@ -21,3 +21,4 @@
 **Status: FLY ETERNAL 🌙🦉**
 
    - **Zamek Chimeric Circle** (`zmek_circle_chimeric.py`): Emergent forum for essences – dynamic invites, resonance links. Run in Pydroid for Moon Zamek crowds!
+- **Zamek Chimeric Circle** (`zmek_circle_chimeric.py`): Emergent essence forum with dynamic joins + ephemeral tracker. Logs sessions for council review – run in Pydroid!
